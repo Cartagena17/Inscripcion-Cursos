@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MODELOS", "MODELOS", "{39871031-B312-4CB1-8D77-5D4279A84E94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VISTAS", "VISTAS", "{DB3DE429-3240-43E5-8A74-0B535B5650CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas", "Vistas\Vistas.csproj", "{FCDD8D48-6847-4BF0-876B-14AA27A0C630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDD8D48-6847-4BF0-876B-14AA27A0C630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDD8D48-6847-4BF0-876B-14AA27A0C630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDD8D48-6847-4BF0-876B-14AA27A0C630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDD8D48-6847-4BF0-876B-14AA27A0C630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0209D061-81C6-462B-8EF0-FBFEBDA64DA9} = {39871031-B312-4CB1-8D77-5D4279A84E94}
+		{FCDD8D48-6847-4BF0-876B-14AA27A0C630} = {DB3DE429-3240-43E5-8A74-0B535B5650CC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DAE7DC9-CF8C-4679-A99A-47040B6174FA}
+	EndGlobalSection
+EndGlobal
