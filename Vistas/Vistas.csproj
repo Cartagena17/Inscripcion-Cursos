@@ -46,16 +46,70 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\Desktop\inscripcion-cursos.cs" />
+    <Compile Include="Formularios\frmIngresarCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmIngresarCursos.Designer.cs">
+      <DependentUpon>frmIngresarCursos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\frmDashboardPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\frmDashboardPrincipal.Designer.cs">
       <DependentUpon>frmDashboardPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\frmIngresarEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmIngresarEstudiantes.Designer.cs">
+      <DependentUpon>frmIngresarEstudiantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmInscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmInscripcion.Designer.cs">
+      <DependentUpon>frmInscripcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVerCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVerCurso.Designer.cs">
+      <DependentUpon>frmVerCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVerEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVerEstudiantes.Designer.cs">
+      <DependentUpon>frmVerEstudiantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVerInscripciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVerInscripciones.Designer.cs">
+      <DependentUpon>frmVerInscripciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Formularios\frmDashboardPrincipal.resx">
       <DependentUpon>frmDashboardPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmIngresarCursos.resx">
+      <DependentUpon>frmIngresarCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmIngresarEstudiantes.resx">
+      <DependentUpon>frmIngresarEstudiantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmInscripcion.resx">
+      <DependentUpon>frmInscripcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVerCurso.resx">
+      <DependentUpon>frmVerCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVerEstudiantes.resx">
+      <DependentUpon>frmVerEstudiantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVerInscripciones.resx">
+      <DependentUpon>frmVerInscripciones.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

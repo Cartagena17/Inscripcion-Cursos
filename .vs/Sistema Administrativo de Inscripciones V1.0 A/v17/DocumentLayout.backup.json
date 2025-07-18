@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\",
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\source\\repos\\sistema administrativo de inscripciones v1.0 a\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\desktop\\inscripcion-cursos\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\source\\repos\\sistema administrativo de inscripciones v1.0 a\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\desktop\\inscripcion-cursos\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\source\\repos\\sistema administrativo de inscripciones v1.0 a\\modelo\\entidades\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\source\\repos\\sistema administrativo de inscripciones v1.0 a\\modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\source\\repos\\sistema administrativo de inscripciones v1.0 a\\modelo\\entidades\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\source\\repos\\sistema administrativo de inscripciones v1.0 a\\modelo\\entidades\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,81 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Vistas\\Program.cs",
-              "RelativeDocumentMoniker": "Vistas\\Program.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Vistas\\Program.cs",
-              "RelativeToolTip": "Vistas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Title": "frmDashboardPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:54:16.605Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-07-18T20:44:43.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmDashboardPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:56:40.186Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-07-18T20:42:13.023Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Estudiantes.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Modelo\\Entidades\\Estudiantes.cs",
-              "RelativeDocumentMoniker": "Modelo\\Entidades\\Estudiantes.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Modelo\\Entidades\\Estudiantes.cs",
-              "RelativeToolTip": "Modelo\\Entidades\\Estudiantes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:43:27.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Inscripcion.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Modelo\\Entidades\\Inscripcion.cs",
-              "RelativeDocumentMoniker": "Modelo\\Entidades\\Inscripcion.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Modelo\\Entidades\\Inscripcion.cs",
-              "RelativeToolTip": "Modelo\\Entidades\\Inscripcion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:43:17.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Modelo\\Entidades\\Curso.cs",
-              "RelativeDocumentMoniker": "Modelo\\Entidades\\Curso.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Modelo\\Entidades\\Curso.cs",
-              "RelativeToolTip": "Modelo\\Entidades\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:43:09.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Conexiondb.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Modelo\\Conexion\\Conexiondb.cs",
-              "RelativeDocumentMoniker": "Modelo\\Conexion\\Conexiondb.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Sistema Administrativo de Inscripciones V1.0 A\\Modelo\\Conexion\\Conexiondb.cs",
-              "RelativeToolTip": "Modelo\\Conexion\\Conexiondb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T16:31:31.198Z",
-              "EditorCaption": ""
             }
           ]
         }
