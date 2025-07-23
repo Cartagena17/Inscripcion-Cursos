@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\",
+  "WorkspaceRootPath": "C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\desktop\\inscripcion-cursos\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|c:\\users\\estudiante\\desktop\\inscripcion-cursos\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FCDD8D48-6847-4BF0-876B-14AA27A0C630}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|c:\\users\\xc\\desktop\\inscripcion-cursos\\modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0209D061-81C6-462B-8EF0-FBFEBDA64DA9}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDashboardPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "ToolTip": "C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:42:13.023Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmDashboardPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
+              "ToolTip": "C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
               "RelativeToolTip": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAACAPTMzMzMlwGMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T20:44:43.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmDashboardPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardPrincipal.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Inscripcion-Cursos\\Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\Formularios\\frmDashboardPrincipal.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "Conexiondb.cs",
+              "DocumentMoniker": "C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\Modelo\\Conexion\\Conexiondb.cs",
+              "RelativeDocumentMoniker": "Modelo\\Conexion\\Conexiondb.cs",
+              "ToolTip": "C:\\Users\\XC\\Desktop\\Inscripcion-Cursos\\Modelo\\Conexion\\Conexiondb.cs",
+              "RelativeToolTip": "Modelo\\Conexion\\Conexiondb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T20:42:13.023Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-22T04:26:22.667Z",
+              "EditorCaption": ""
             }
           ]
         }
